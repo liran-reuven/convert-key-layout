@@ -1,0 +1,10 @@
+{
+  "name": "KeySwap",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "./popup/popup.html",
+    "default_icon": "./images/icon-0000.png"
+  }
+}
